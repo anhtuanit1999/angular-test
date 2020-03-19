@@ -1,4 +1,18 @@
+.product-container {
+  display: flex;
+  flex-flow: wrap;
+  align-items: center;
+  justify-content: center;
+}
 
+.product-item {
+  flex: 1 1 25%;
+  height: 10rem;
+  width: 50%;
+  padding: 1rem 1rem;
+  margin: 2rem;
+  border: 1px solid gray;
+}
 
 /*
 Copyright Google LLC. All Rights Reserved.
