@@ -3,6 +3,10 @@
   flex-flow: wrap;
 }
 
+button {
+  margin-right: 0.5rem;
+}
+
 .product-item {
   flex: 1 1 45%;
   min-height: 11rem;
